@@ -2,6 +2,13 @@
 
 <div align="center">
 
+<img src="assets/banner.svg" alt="Banner" width="100%">
+
+</div>
+
+
+<div align="center">
+
 # 📉 The AOL-Time Warner Merger: A Strategic Post-Mortem
 
 [![Type](https://img.shields.io/badge/Analysis-M%26A_Case_Study-red)]()
