@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="Banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving<img src="assets/banner.svg" alt="Banner" width="100%">color=0:0d1117,50:1a3a4a,100:f39c12<img src="assets/banner.svg" alt="Banner" width="100%">height=220<img src="assets/banner.svg" alt="Banner" width="100%">section=header<img src="assets/banner.svg" alt="Banner" width="100%">text=AOL%E2%80%93Time%20Warner%20Merger<img src="assets/banner.svg" alt="Banner" width="100%">fontSize=42<img src="assets/banner.svg" alt="Banner" width="100%">fontColor=ffffff<img src="assets/banner.svg" alt="Banner" width="100%">animation=fadeIn<img src="assets/banner.svg" alt="Banner" width="100%">fontAlignY=35<img src="assets/banner.svg" alt="Banner" width="100%">desc=M%26A%20Case%20Study%20%7C%20Strategic%20Post-Mortem%20%7C%20Valuation%20Analysis<img src="assets/banner.svg" alt="Banner" width="100%">descSize=16<img src="assets/banner.svg" alt="Banner" width="100%">descAlignY=55<img src="assets/banner.svg" alt="Banner" width="100%">descColor=cccccc" alt="Banner" width="100%">
 
 </div>
 
