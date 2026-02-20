@@ -14,6 +14,10 @@
 
 [📄 **Read the Full Analysis**](reports/AOL%20Time%20Warner%20Merger%20Analysis.docx) · [📊 **View Presentation**](presentation/AOL%20Time%20Warner%20Merger%20PPT.pdf)
 
+---
+
+[🏦 Summary](#️-executive-summary) · [⏳ Timeline](#-critical-timeline) · [📉 Why It Failed](#-why-it-failed-the-triad-of-destruction) · [💰 Financial Impact](#-financial-impact) · [🧠 Lessons](#-lessons-for-modern-ma)
+
 </div>
 
 ---
@@ -58,6 +62,26 @@ The promised "synergies" (cross-selling subscriptions, digital content distribut
 
 ---
 
+## 💰 Financial Impact
+
+| Metric | Pre-Merger (2000) | Post-Merger (2002) | Change |
+|---|---|---|---|
+| **Deal Valuation** | $165B | — | — |
+| **Market Cap** | $350B (combined) | $70B | **📉 −80%** |
+| **Stock Price (AOL)** | $73 | $15 | **📉 −79%** |
+| **Goodwill Impairment** | — | $99B | Largest in history |
+| **Annual Loss (2002)** | — | $98.7B | Record corporate loss |
+| **Employees Laid Off** | — | ~6,000 | Integration fallout |
+
+### EPS Impact Analysis
+
+| Method | Acquirer EPS | Target EPS | Combined EPS | Accretion/Dilution |
+|---|---|---|---|---|
+| **Purchase Method** | $1.20 | $0.85 | $0.72 | **📉 Dilutive (−40%)** |
+| **Pooling Method** | $1.20 | $0.85 | $1.05 | **📉 Dilutive (−13%)** |
+
+---
+
 ## 📂 Repository Structure
 
 ```
@@ -94,6 +118,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 <div align="center">
 
-**Built with ❤️ for Corporate Strategy**
+### 👩‍💻 Author
+
+**Khushi Kothari**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khushi2704rj-sephora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-kothari--/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khushi2704.ak@gmail.com)
+
+*MSc Business Analytics · M&A Strategy & Corporate Valuation*
 
 </div>
