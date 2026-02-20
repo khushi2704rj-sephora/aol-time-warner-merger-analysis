@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a4a,100:f39c12&height=220&section=header&text=AOL%E2%80%93Time%20Warner%20Merger&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M%26A%20Case%20Study%20%7C%20Strategic%20Post-Mortem%20%7C%20Valuation%20Analysis&descSize=16&descAlignY=55&descColor=cccccc" alt="Banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a4a,100:f39c12&height=220&section=header&text=AOL%E2%80%93Time%20Warner%20Merger&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M%2526A%20Case%20Study%20%7C%20Strategic%20Post-Mortem%20%7C%20Valuation%20Analysis&descSize=16&descAlignY=55&descColor=cccccc" alt="Banner" width="100%">
 
 </div>
 
