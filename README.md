@@ -1,3 +1,5 @@
+[![Check Markdown Links](https://github.com/khushi2704rj-sephora/aol-time-warner-merger-analysis/actions/workflows/link-check.yml/badge.svg)](https://github.com/khushi2704rj-sephora/aol-time-warner-merger-analysis/actions/workflows/link-check.yml)
+
 <div align="center">
 
 # 📉 The AOL-Time Warner Merger: A Strategic Post-Mortem
